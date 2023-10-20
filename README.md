@@ -47,6 +47,7 @@ The API should now be running on `http://localhost:3000`.
 
 ## Usage
 
+Add .env file, you can find env-example
 You can use tools like `curl`, [Postman](https://www.postman.com/), or [Insomnia](https://insomnia.rest/) to interact with the API. Here are the available API endpoints:
 
 ## API Endpoints
